@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-## 🚀 About Me
 My name is Piotr and I am excited to share my journey in programming with you.
  
 I started learning programming a few months ago, and I quickly discovered that front-end development became my passion.
