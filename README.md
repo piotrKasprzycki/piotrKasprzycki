@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**piotrKasprzycki/piotrKasprzycki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+Hello, my name is Piotr and I am excited to share my journey in programming with you.
+ 
+I started learning programming a few months ago, and I quickly discovered that front-end development became my passion.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With my newly discovered passion, I have been examining the wide range of tools and technologies used in front-end development, including HTML, CSS, JavaScript, and just started to learn Angular.
+
+
+
+
+## Feedback
+
+
+Thank you for sharing your feedback with me. As a new learner, I appreciate any guidance and suggestions that will help me improve.
